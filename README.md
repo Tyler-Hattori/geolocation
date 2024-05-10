@@ -1,1 +1,3 @@
-# geolocation
+# Geolocation Estimation and Analysis Using the Backward Propagation Technique
+
+The backward propagation method is used to perform simulation, analysis and estimation of the geolocation of a single target in the active sensing mode. Moreover, the monostatic model and the range and bearing angle model are also analyzed as alternative models in the active sensing mode. Finally, a third technique is implemented which utilizes a simple Fourier Transform to provide a target estimate in both the polar and cartesian coordinate systems. The effectiveness of each approximation technique is analyzed based on target estimation error and computation speed. I find that while the three alternative techniques analyzed in this assignment perform well under certain conditions, the original backward propagation technique consistently outperforms any other model.
